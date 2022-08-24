@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "react-router-dom": "^6.3.0"
+  },
+  "name": "peppy-office-9632",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heynaveed/peppy-office-9632.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heynaveed/peppy-office-9632/issues"
+  },
+  "homepage": "https://github.com/heynaveed/peppy-office-9632#readme",
+  "description": ""
+}
