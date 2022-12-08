@@ -1,0 +1,21 @@
+{
+    "user":[
+        {
+            "id":1,
+            "username":"heynaveed",
+            "avatarurl":"https://pravatar.cc/644",
+            "fullname":"Naveed Pasha",
+            "email":"naveed@gmail.com",
+            "password":"naveed@123"
+        }
+    ],
+    "tweets":[
+        {
+            "id":1,
+            "username":"heynaveed",
+            "caption":"cats",
+            "gif":"https://media2.giphy.com/media/mlvseq9yvZhba/giphy.gif?cid=3a7b570a0be82ihav9tnkvgeh020rwzcpa099mjsixwsnuke&rid=giphy.gif&ct=g"
+        }
+    ]
+
+}
